@@ -21,5 +21,5 @@
 
       🔹WP: +54 1526376593 o https://wa.me/5491126376593
       🔹Email: Jonathanhortman@outlook.com
-      🔹GitHub: https://github.com/JonathanHortman
+      🔹Linkedin: https://www.linkedin.com/in/jonathan-jesus-hortman-5ab210236/
 
