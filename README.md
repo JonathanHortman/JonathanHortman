@@ -1,6 +1,6 @@
 ### Hola a todos !!! 👋 Mi nombre es Jonathan.
 
-- 🌱 Actualmente desarrollandome como Full Stack Developer.
+- 🌱 Actualmente estoy desarrollandome como Full Stack Developer.
 - 👯 Buscando la oportunidad de demostrar mis capacidades.
 - 🤔 Mis habilidades:
 
