@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hola a todos !!! 👋 Mi nombre es Jonathan.
 
-<!--
-**JonathanHortman/JonathanHortman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Actualmente desarrollandome como Full Stack Developer.
+- 👯 Buscando la oportunidad de demostrar mis capacidades.
+- 🤔 Mis habilidades:
 
-Here are some ideas to get you started:
+      🔸JavaScript
+      🔸HTML
+      🔸CSS
+      🔸ReactJS
+      🔸Redux
+      🔸NodeJS
+      🔸Express
+      🔸PostgreSQL
+      🔸Sequelize
+      🔸Git
+      🔸GitHub
+      
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 ¿Como contactarme?
+
+      🔹WP: +54 1526376593 o https://wa.me/5491126376593
+      🔹Email: Jonathanhortman@outlook.com
+      🔹GitHub: https://github.com/JonathanHortman
+
