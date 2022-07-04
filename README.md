@@ -18,7 +18,6 @@
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-🔸Redux![redux](https://user-images.githubusercontent.com/99038380/177217537-70de12a4-b6a1-445e-8d01-d0ff6d73695d.svg)
 
 🔸PostgreSQL
 🔸Sequelize
