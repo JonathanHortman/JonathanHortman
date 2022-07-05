@@ -1,6 +1,6 @@
 
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 
 
 <h1 align="center">Hola👋, Soy Jonathan Jesus Hortman</h1>
@@ -10,7 +10,7 @@ disfruto de adquirir nuevos conocimientos y perfeccionar mis habilidades todos l
 Me caracterizo por ser inconformista, perfeccionista y entusiasta en cuanto a los objetivos y tareas en las que me desempeño.
 Disfruto de poder trabajar en equipo, aportando mi creatividad y marca personal.  </h3>
 <hr>
-
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <h3 align="center">Contacta conmigo:</h3>
 <p align="center">
       🔹WP: +54 1526376593 o https://wa.me/5491126376593 <br>
