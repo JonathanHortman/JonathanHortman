@@ -5,7 +5,7 @@
 
 <h1 align="center">Hola👋, Soy Jonathan Jesus Hortman</h1>
 
-<h3 align="center">Soy apasionado por el desarrollo web y por la enseñanza, gracias a la programación hoy puedo combinar ambas.
+<h3 align="justify">Soy apasionado por el desarrollo web y por la enseñanza, gracias a la programación hoy puedo combinar ambas.
 disfruto de adquirir nuevos conocimientos y perfeccionar mis habilidades todos los días.
 Me caracterizo por ser inconformista, perfeccionista y entusiasta en cuanto a los objetivos y tareas en las que me desempeño.
 Disfruto de poder trabajar en equipo, aportando mi creatividad y marca personal.  </h3>
