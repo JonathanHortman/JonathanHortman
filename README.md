@@ -21,7 +21,7 @@ Disfruto de poder trabajar en equipo, aportando mi creatividad y marca personal.
 <hr>
 
 <P align="center">
-Javascript| TypeScript | Html | Css | React | Redux | Sequelize | Node JS | Express | Git | PostgreSQL  | MongoDB
+Javascript| TypeScript | Html | Css | React | Redux | Sequelize | Node JS | Express | Git | PostgreSQL  | linux
 </P>
   
 <h3 align="center">Lenguajes y herramientas:</h3>
