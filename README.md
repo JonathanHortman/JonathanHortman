@@ -1,10 +1,13 @@
-### Hola a todos !!! 👋 Mi nombre es Jonathan.
+
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<h1 align="center">Hola👋, Soy David Natanael Gomez</h1>
+<h1 align="center">Hola👋, Soy Jonathan Jesus Hortman</h1>
 
-<h3 align="center">intelectualmente curioso, apasionado por la tecnología y el desarrollo en general, soy una persona muy predispuesta a estar en continuo aprendizaje, buscando superarme en cada instancia, Me encantan los nuevos desafíos, tanto de manera individual como grupal. soy muy autodidacta, lo que me ha llevado a mejorar la habilidad de poder desenvolverme de forma rápida en algo nuevo, y poder resolver cualquier tipo de problemas que se me presenten.  </h3>
+<h3 align="center">Soy apasionado por el desarrollo web y por la enseñanza, gracias a la programación hoy puedo combinar ambas.
+disfruto de adquirir nuevos conocimientos y perfeccionar mis habilidades todos los días.
+Me caracterizo por ser inconformista, perfeccionista y entusiasta en cuanto a los objetivos y tareas en las que me desempeño.
+Disfruto de poder trabajar en equipo, aportando mi creatividad y marca personal.  </h3>
 
 
 <hr>
