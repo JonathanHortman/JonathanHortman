@@ -39,4 +39,3 @@ Javascript| TypeScript | Html | Css | React | Redux | Sequelize | Node JS | Expr
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/><a href="https://www.mongodb.com/" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669571/Portfolio/Skills/mongodb_c6g2w4.png" alt="MongoDB" title='MongoDB' width="40" height="40"/> </a>
   </p >
-  <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
