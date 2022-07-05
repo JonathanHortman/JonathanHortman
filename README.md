@@ -13,10 +13,10 @@ Disfruto de poder trabajar en equipo, aportando mi creatividad y marca personal.
 
 <h3 align="center">Contacta conmigo:</h3>
 <p align="center">
-      🔹WP: +54 1526376593 o https://wa.me/5491126376593
-      🔹Email: Jonathanhortman@outlook.com
-      🔹Linkedin: https://www.linkedin.com/in/jonathan-jesus-hortman-5ab210236
-      🔹Portfolio: https://jonathanhortman.vercel.app
+      🔹WP: +54 1526376593 o https://wa.me/5491126376593 <br>
+      🔹Email: Jonathanhortman@outlook.com <br>
+      🔹Linkedin: https://www.linkedin.com/in/jonathan-jesus-hortman-5ab210236 <br>
+      🔹Portfolio: https://jonathanhortman.vercel.app <br>
 </p>
 <hr>
 
