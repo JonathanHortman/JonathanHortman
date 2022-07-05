@@ -3,13 +3,13 @@
 
 
 <h1 align="center">Hola👋, Soy Jonathan Jesus Hortman</h1>
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 <h3 align="center">Soy apasionado por el desarrollo web y por la enseñanza, gracias a la programación hoy puedo combinar ambas.
 disfruto de adquirir nuevos conocimientos y perfeccionar mis habilidades todos los días.
 Me caracterizo por ser inconformista, perfeccionista y entusiasta en cuanto a los objetivos y tareas en las que me desempeño.
 Disfruto de poder trabajar en equipo, aportando mi creatividad y marca personal.  </h3>
-
-
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<br>
 <hr>
 
 <h3 align="center">Contacta conmigo:</h3>
